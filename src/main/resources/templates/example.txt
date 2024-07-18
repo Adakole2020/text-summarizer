@@ -1,0 +1,67 @@
+{
+    "id": null,
+    "title": "Chart Notes",
+    "entities": [
+        "Jane Doe",
+        "3800 West Slaughter Lane, Austin, TX 78000",
+        "(912) 480-1800",
+        "(912) 480-1900",
+        "103254",
+        "02/02/1878",
+        "12/21/2020",
+        "John Carter, DC - Anytown",
+        "12/17/2020",
+        "Croft Guidelines for CAD injuries",
+        "Wednesday, March 31, 2021 9:35:05 AM",
+        "Various spinal injuries and conditions",
+        "Specific spinal adjustments",
+        "electrical stimulation",
+        "moist heat application",
+        "mechanical traction",
+        "Sharp pain",
+        "discomfort in multiple areas",
+        "Spinal restrictions",
+        "muscle spasms",
+        "reduced range of motion",
+        "MRI referral",
+        "cervical spine MRI",
+        "01/06/2021"
+    ],
+    "summary": "The document contains chart notes for patient Jane Doe, detailing her complaints, examination findings, medical history, diagnosis of various spinal injuries and conditions, and treatment plan based on Croft Guidelines for CAD injuries. The notes span from 12/21/2020 to 01/06/2021 and include specific spinal adjustments, electrical stimulation, heat therapy, and consideration for MRI referral if no improvement.",
+    "outline": {
+        "Chart Notes - 12/30/2020": [
+            "Continuation of treatment plan with specific spinal adjustments, electrical stimulation, and heat therapy"
+        ],
+        "Chart Notes - 01/04/2021": [
+            "Subjective complaints and objective findings similar to previous entries",
+            "Plan includes consideration of cervical spine MRI if no improvement"
+        ],
+        "Chart Notes - 12/29/2020": [
+            "Subjective complaints: Sharp pain, discomfort in multiple areas",
+            "Objective findings: Spinal restrictions, muscle spasms, reduced range of motion",
+            "Diagnosis: Similar to previous entries with additional mention of MRI referral if no improvement"
+        ],
+        "Document": [
+            "Patient information: Jane Doe, Acct #: 103254, DOB: 02/02/1878",
+            "Date printed: Wednesday, March 31, 2021 9:35:05 AM"
+        ],
+        "Chart Notes": [
+            "Patient Information: Jane Doe, 3800 West Slaughter Lane, Austin, TX 78000, Phone: (912) 480-1800, Fax: (912) 480-1900, Acct #: 103254, DOB: 02/02/1878",
+            "Date: 12/21/2020, Provider: John Carter, DC - Anytown",
+            "Subjective: Complaints reported by Jane Doe after an automobile accident on 12/17/2020",
+            "Objective: Examination findings including history, neurological reflexes, ROM testing, muscle strength testing, physical findings, ortho tests",
+            "Past, Family and Social History: Medical history, family history, social habits, exercise habits, diet and nutrition",
+            "Assessment: Summary of Jane's condition based on history, subjective complaints, and objective findings",
+            "Diagnosis: Comprehensive list of diagnoses based on assessment and test results",
+            "Plan: Treatment plan based on Croft Guidelines for CAD injuries, including frequency of visits, adjustments, modalities, therapeutic exercises"
+        ],
+        "Chart Notes - 12/23/2020": [
+            "Diagnosis: Various spinal injuries and conditions",
+            "Treatment plan: Specific spinal adjustments, electrical stimulation, moist heat application, mechanical traction"
+        ],
+        "Chart Notes - 01/06/2021": [
+            "Continuation of treatment with specific spinal adjustments, electrical stimulation, and heat therapy",
+            "Diagnosis remains consistent with previous entries"
+        ]
+    }
+}

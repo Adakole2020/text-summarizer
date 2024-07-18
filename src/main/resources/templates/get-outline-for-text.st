@@ -1,0 +1,1 @@
+Given the following text document, generate an outline of the document. Preserve any key entities relating to any sections within the outline. {text} {format}

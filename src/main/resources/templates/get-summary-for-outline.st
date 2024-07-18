@@ -1,0 +1,1 @@
+Given the following outline of a text document, summarize the entire document. {text} {format}

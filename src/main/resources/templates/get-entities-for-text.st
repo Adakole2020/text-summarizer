@@ -1,0 +1,1 @@
+Identify all key entities in the following text document. {text} {format}
